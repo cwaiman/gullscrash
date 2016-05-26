@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "10511336120",
+    "firebase_url": "https://gullscrash.firebaseio.com",
+    "project_id": "gullscrash",
+    "storage_bucket": "gullscrash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10511336120:android:2b5dc3e9b96ab2d8",
+        "android_client_info": {
+          "package_name": "com.example.gulls.crash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10511336120-ntt5tekl34k6kplk8p46ds8mvho6mqkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gulls.crash",
+            "certificate_hash": "9225513C777D7A95CFFAC6CE34F8E1A44124B08B"
+          }
+        },
+        {
+          "client_id": "10511336120-e8mh1v5smrfg5hrn7os9hrs89sg7rmeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQAOjyRlFXgZ7QggfMtaxlcYQjGjPfA10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10511336120-e8mh1v5smrfg5hrn7os9hrs89sg7rmeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
